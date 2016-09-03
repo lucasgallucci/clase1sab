@@ -1,0 +1,13 @@
+1)Posicionarse en la carpeta del proyecto
+
+2)git init (Inicializar respositorio git por única vez al comenzar un proyecto)
+
+2b) git add remote -------- (vincula repositorio local con repositio remoto)
+
+3) git status (es un comodín que me dice en que estado está mi proyecto)
+
+4) git add . (Agrega archivos del proyecto a una versión)
+
+5) git commit -m "mensaje" (cierra la versión con el nombre que esté entre las comillas)
+
+6) git push origin master (sube archivos al repositorio remoto)
